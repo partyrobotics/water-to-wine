@@ -4,7 +4,7 @@ Written by Robert Kaye
 Copyright (c) Party Robotics 2010
 
 This code is released under the GPL 2.0. See
-copying for all the details.
+COPYING for all the details.
 
 Notes:
-- This program is nothing more than a state machine!
+  - This program is nothing more than a state machine!
