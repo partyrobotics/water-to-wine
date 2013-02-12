@@ -2,8 +2,9 @@ This is the firmware source code to Water to Wine.
 
 Written by Robert Kaye
 Copyright (c) Party Robotics 2010
-All Rights Reserved.
 
+This code is released under the GPL 2.0. See
+copying for all the details.
 
 Notes:
 - This program is nothing more than a state machine!
